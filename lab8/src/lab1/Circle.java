@@ -1,5 +1,4 @@
 package lab1;
-05;39
 import java.util.Scanner;
 public class Circle {
  private static final double PI = 3.14;
